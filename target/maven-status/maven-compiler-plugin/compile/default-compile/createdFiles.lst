@@ -1,0 +1,8 @@
+com\david\GUI\LogIn.class
+com\david\hibernateUtils\HibernateUtils.class
+com\david\entities\Computador.class
+com\david\entities\DetallePieza.class
+com\david\hibernateMethods\MethodsTest.class
+com\david\entities\Usuario.class
+com\david\entities\Pieza.class
+com\david\hibernateMethods\QueryObjectDemo.class
